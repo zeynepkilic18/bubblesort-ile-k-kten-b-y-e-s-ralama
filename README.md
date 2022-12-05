@@ -1,4 +1,6 @@
 # bubblesort-ile-küçükten-büyüğe sıralama
+
+
 #include<stdio.h>
 #include<stdlib.h>
 int main(void)
